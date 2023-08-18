@@ -1,4 +1,4 @@
-
+To create the enviroment on local machine for StyleGAN2 and CycleGAN/ Pix2Pix run following Commands
 
 For StyleGAN2
 ubuntu 20.04, cuda 10.0, cudnn v7.6.5.32, python 3.6
