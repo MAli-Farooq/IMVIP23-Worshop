@@ -10,10 +10,11 @@ conda env create -f cyclegan.yml
 
 
 StyleAGN2 repo Links: https://github.com/NVlabs/stylegan2
+CycleGAN and Pix2Pix: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix 
 
 Pretranied Models: https://github.com/jeffheaton/pretrained-gan-fish/tree/main
 
-Bikes Dataset (Link: https://decode.mit.edu/projects/biked/) 
-Metfaces (Link: github.com/NVLabs/metfaces-dataset)  
-FFHQ (Link: https://github.com/NVlabs/ffhq-dataset)
+Bikes Dataset Link: https://decode.mit.edu/projects/biked/ 
+Metfaces Link: github.com/NVLabs/metfaces-dataset  
+FFHQ Link: https://github.com/NVlabs/ffhq-dataset
 
