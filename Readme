@@ -9,4 +9,11 @@ python 3.8
 conda env create -f cyclegan.yml
 
 
-Links: 
+StyleAGN2 repo Links: https://github.com/NVlabs/stylegan2
+
+Pretranied Models: https://github.com/jeffheaton/pretrained-gan-fish/tree/main
+
+Bikes Dataset (Link: https://decode.mit.edu/projects/biked/) 
+Metfaces (Link: github.com/NVLabs/metfaces-dataset)  
+FFHQ (Link: https://github.com/NVlabs/ffhq-dataset)
+
