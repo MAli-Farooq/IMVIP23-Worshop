@@ -1,0 +1,9 @@
+conda env export > environment.yaml
+
+For StyleGAN2
+ubuntu 20.04, cuda 10.0, cudnn v7.6.5.32, python 3.6
+conda env create -f tf1.yaml
+
+For CycleGAN
+python 3.8
+conda env create -f environment.yml
