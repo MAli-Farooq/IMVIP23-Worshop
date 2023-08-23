@@ -1,0 +1,14 @@
+pip install nvidia-tensorflow==1.15.4
+
+cyclegan cuda11.7
+module load cuda/11.7 cudnn/v8.5.0.96_cuda-11 anaconda3
+source activate pytorch-CycleGAN-and-pix2pix
+jupyter notebook
+
+
+
+tf1.15_py3.6 for stylegan
+module load cuda/11.2 cudnn/v8.1.1.33_cuda-11.2 anaconda3
+conda activate tf1.15_py3.6
+jupyter notebook
+
