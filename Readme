@@ -11,6 +11,7 @@ conda env create -f cyclegan.yml
 
 StyleAGN2 repo Links: https://github.com/NVlabs/stylegan2
 CycleGAN and Pix2Pix: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix 
+ControNet: https://github.com/lllyasviel/ControlNet
 
 Pretranied Models: https://github.com/jeffheaton/pretrained-gan-fish/tree/main
 
